@@ -20,42 +20,29 @@
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em></h2>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="230" align="right"/>
 
 <p>
-Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative technologist who lives between design and code. I focus on creating visuals, interfaces, and digital experiences that are not only good-looking, but also functional, structured, and meaningful.
+Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative technologist who lives between design and code.
 </p>
 
 <p>
-My main background is in the creative field, including graphic design, illustration, motion graphics, and video editing. But I also understand how technology works behind digital products, especially in web development, frontend engineering, UI implementation, and modern IT fields like machine learning, automation, and artificial intelligence.
+I focus on creating visuals, interfaces, and digital experiences that are clean, functional, structured, and meaningful.
 </p>
 
 <p>
-Now I'm working on small and meaningful projects to sharpen my skills in JavaScript, React, Tailwind CSS, UI design, and creative technology while exploring more advanced areas in the tech world.
+My main background is in the creative field, including graphic design, illustration, motion graphics, and video editing.
 </p>
 
-</td>
-<td width="6%"></td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="/imgs/img3.png" width="15"/> <em><b> Creative Technologist </b></em> <br/>
-  <img src="/imgs/img4.png" width="15"/> <em><b> Web Developer with a strong visual design sense </b></em><br/>
-  <img src="/imgs/img2.png" width="15"/> <em><b> Motion Graphic Designer · Illustrator · Video Editor </b></em><br/>
-  <img src="/imgs/img1.png" width="15"/> <em><b> Exploring Machine Learning, AI, and modern IT fields </b></em><br/>
+<p>
+But I also understand how technology works behind digital products, especially in web development, frontend engineering, UI implementation, and modern IT fields like machine learning, automation, and artificial intelligence.
 </p>
 
+<p>
+Now I'm working on small and meaningful projects to sharpen my skills in JavaScript, React, Tailwind CSS, UI design, and creative technology.
+</p>
 
+<br clear="right"/>
 <br/>
 
 <p align="center">
