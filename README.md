@@ -18,22 +18,31 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative technologist who lives between design and code. I focus on creating visuals, interfaces, and digital experiences that are not only good-looking, but also functional, structured, and meaningful.
+      </p>
 
-<p>
-  Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative technologist who lives between design and code. I focus on creating visuals, interfaces, and digital experiences that are not only good-looking, but also functional, structured, and meaningful.
-</p>
+      <p>
+        My main background is in the creative field, including graphic design, illustration, motion graphics, and video editing. But I also understand how technology works behind digital products, especially in web development, frontend engineering, UI implementation, and modern IT fields like machine learning, automation, and artificial intelligence.
+      </p>
 
-<p>
-  My main background is in the creative field, including graphic design, illustration, motion graphics, and video editing. But I also understand how technology works behind digital products, especially in web development, frontend engineering, UI implementation, and modern IT fields like machine learning, automation, and artificial intelligence.
-</p>
+      <p>
+        Now I'm working on small and meaningful projects to sharpen my skills in JavaScript, React, Tailwind CSS, UI design, and creative technology while exploring more advanced areas in the tech world.
+      </p>
+    </td>
 
-<p>
-  Now I'm working on small and meaningful projects to sharpen my skills in JavaScript, React, Tailwind CSS, UI design, and creative technology while exploring more advanced areas in the tech world.
-</p>
+    <td width="40"></td>
+
+    <td width="32%" align="center" valign="top">
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 <br/>
