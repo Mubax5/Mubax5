@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">hilmi — building quiet things for the web.</h1>
 
-<!--
-**Mubax5/Mubax5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Frontend-focused developer crafting clean interfaces, useful products, and small details that feel right.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://instagram.com/hilmi.m_">Instagram</a> ·
+  <a href="https://github.com/USERNAME">GitHub</a> ·
+  <a href="mailto:hilmimubarok2006@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### currently
+
+- building web interfaces with a clean, minimal approach
+- learning deeper frontend patterns and product-minded development
+- interested in UI, automation, and tools that make life simpler
+
+### stack
+
+```txt
+frontend    React · Next.js · Tailwind · JavaScript · TypeScript
+backend     Node.js · Express · Firebase
+tools       Git · GitHub · Vercel · Figma
