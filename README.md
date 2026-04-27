@@ -17,7 +17,6 @@
 
 
 <br>
-
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="190" align="right"/>
@@ -27,11 +26,10 @@ Hello There! <em><b>I'm Hilmi Mubarok</b></em>, a <b>creative technologist</b> w
 </p>
 
 <p>
-My background is rooted in the creative field—graphic design, illustration, motion graphics, and video editing—while I also understand web development, UI implementation, and modern IT areas such as machine learning, AI, and automation.
+My background is rooted in the creative field, including graphic design, illustration, motion graphics, and video editing. I also understand web development, UI implementation, and modern IT areas such as machine learning, AI, and automation.
 </p>
 
 <br clear="right"/>
-
 
 <p align="center">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Creative Technologist </b></em> <br/>
