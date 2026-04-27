@@ -30,6 +30,8 @@ My background is rooted in the creative field, including graphic design, illustr
 </p>
 
 <br clear="right"/>
+<br/>
+<br/>
 
 <p align="center">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Creative Technologist </b></em> <br/>
