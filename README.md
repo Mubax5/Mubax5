@@ -24,21 +24,25 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative developer and visual designer. I enjoy building clean web interfaces, designing visual identities, and creating digital experiences that feel simple, sharp, and useful. I'm also interested in motion graphics, illustration, graphic design, and video editing.
+  Hello There! <em><b> I'm Hilmi Mubarok </b></em>, a creative technologist who lives between design and code. I focus on creating visuals, interfaces, and digital experiences that are not only good-looking, but also functional, structured, and meaningful.
 </p>
 
 <p>
-  Now I'm working on small and fun projects to improve my skills in JavaScript, React, Tailwind CSS, UI design, and modern web development.
+  My main background is in the creative field, including graphic design, illustration, motion graphics, and video editing. But I also understand how technology works behind digital products, especially in web development, frontend engineering, UI implementation, and modern IT fields like machine learning, automation, and artificial intelligence.
+</p>
+
+<p>
+  Now I'm working on small and meaningful projects to sharpen my skills in JavaScript, React, Tailwind CSS, UI design, and creative technology while exploring more advanced areas in the tech world.
 </p>
 
 
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Frontend Developer </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Motion Graphic Designer & Illustrator </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Graphic Designer & Video Editor </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Building clean and minimal digital products </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Creative Technologist </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Web Developer with a strong visual design sense </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Motion Graphic Designer · Illustrator · Video Editor </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Exploring Machine Learning, AI, and modern IT fields </b></em><br/>
 </p>
 
 <br/>
