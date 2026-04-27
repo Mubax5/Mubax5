@@ -29,6 +29,10 @@ Hello There! <em><b>I'm Hilmi Mubarok</b></em>, a <b>creative technologist</b> w
 My background is rooted in the creative field, including graphic design, illustration, motion graphics, and video editing. I also understand web development, UI implementation, and modern IT areas such as machine learning, AI, and automation.
 </p>
 
+<p>
+  I enjoy turning ideas into clean visuals and interactive systems that feel simple, useful, and engaging.
+</p>
+
 <br clear="right"/>
 <br/>
 <br/>
