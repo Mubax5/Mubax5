@@ -1,16 +1,16 @@
-<img src = "githubanner.JPG"/>
+<img src = "githubanner.png"/>
 
 <p align="center">
-  <a href="mailto:hilmimubarok2006@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hilmimubarok2006@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/hilmi.m_/" target="_blank">
+  <a href="https://www.instagram.com/hilmi.m_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Mubax5" target="_blank">
+  <a href="https://github.com/Mubax5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hilmi-mubarok" target="_blank">
+  <a href="www.linkedin.com/in/hilmimubarok2006" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -42,7 +42,7 @@
    <img src="/imgs/img3.png" width="15"/>   <em><b> Creative Technologist </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Web Developer with a strong visual design sense </b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Motion Graphic Designer · Illustrator · Video Editor </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Exploring Machine Learning, AI, and modern IT fields </b></em><br/>
+   <img src="/imgs/title2.png" width="15"/>   <em><b> Exploring Machine Learning, AI, and modern IT fields </b></em><br/>
 </p>
 
 <br/>
